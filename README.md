@@ -1,6 +1,6 @@
 <h1> <img src="https://user-images.githubusercontent.com/90701894/146861242-b5e4a0c3-7035-4a1a-af74-20778bb5fbaa.gif" width="30"> Hello There! 👋, It's a pleasure to meet you. Let's make magic happen  </h1>
 <p>
-  Hi I'm Sebastián from <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="15"> Lima, Perú.
+  Hi I'm Walter from <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="15"> Lima, Perú.
   I like to work in a team because I believe that our skills complement each other, so we can learn from each other.
 </p>
 <h2 align="center"> <i> Constant learning, lasting growth </i></h2>
@@ -12,9 +12,8 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-curve&amp;logo=react&amp;logoColor=white">
   <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-curve&logo=html5&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-c76494?style=flat-curve&amp;logo=sass&amp;logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-curve&logo=javascript&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS-264de4?style=flat-curve&logo=css3&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-264de4?style=flat-curve&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8e17fd?style=flat-curve&logo=bootstrap&logoColor=white" />
 </p>
 
