@@ -1,7 +1,7 @@
 <h1> <img src="https://user-images.githubusercontent.com/90701894/146861242-b5e4a0c3-7035-4a1a-af74-20778bb5fbaa.gif" width="30"> Hello There! 👋, It's a pleasure to meet you. Let's make magic happen  </h1>
 <p>
   Hi I'm Walter from <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="15"> Lima, Perú.
-  I like to work in a team because I believe that our skills complement each other, so we can learn from each other.
+ A passionate front-end developer. I enjoy working in a team because I firmly believe that our skills complement each other, allowing us to learn and grow together. My focus on collaboration has consistently helped me improve as a developer and contribute effectively to the success of web and application projects.
 </p>
 <h2 align="center"> <i> Constant learning, lasting growth </i></h2>
 
