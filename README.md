@@ -19,17 +19,16 @@
 </p>
 
 <h6>📦 Backend </h6>
-<p>
+<!--<p>
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853d?style=style%3Dflat-curve&logo=nodedotjs&logoColor=FFFFFF">
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-a7215b?style=flat-curve&logo=apache&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-curve&logo=flask&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-curve&logo=python&logoColor=white" />
   <img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-333?style=style%3Dflat-curve&logo=express&logoColor=FFFFFF">
-</p>
+</p>---  >
 
 <h6>📊 Database </h6>
 <p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSql-336791?style=style%3Dflat-curve&logo=postgresql&logoColor=FFFFFF">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=style%3Dflat-curve&logo=mongodb&logoColor=FFFFFF">
   <img alt="MySQL" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-curve&logo=mysql&logoColor=white" />
 </p>
